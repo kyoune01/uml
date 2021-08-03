@@ -1,0 +1,13 @@
+*.wsd
+*.pu
+*.puml
+*.plantuml
+*.iuml
+out/*
+
+!.gitkeep
+!templates/*.wsd
+!templates/*.pu
+!templates/*.puml
+!templates/*.plantuml
+!templates/*.iuml
